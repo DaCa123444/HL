@@ -1,5 +1,7 @@
 # 조도에 따라 자동으로 출력을 조절하는 헤드라이트
 
+<img src="/HL/pic/opamp_1_off.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
+
 ## 사용한 부품
  - NE5532n
  - LM317
