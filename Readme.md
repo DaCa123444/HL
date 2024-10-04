@@ -1,9 +1,13 @@
 # 조도에 따라 자동으로 출력을 조절하는 헤드라이트
 
 - 1번 op-amp의 출력 결과 (On / Off)
+</br>
 <img src="/pic/opamp_1_off.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
 <img src="/pic/opamp_1_on.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
+
 - 2번 op-amp의 출력 결과 (On / Off)
+</br>
+
 <img src="/pic/opamp_2_off.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
 <img src="/pic/opamp_2_on.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
 
