@@ -2,19 +2,19 @@
 
 # 결과
 </br>
-<img src="/pic/led_test.GIF" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
+<img src="/pic/led_test.GIF" width="25%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
 
 # 회로도
  - 무료 버전 사용으로 75node 이상에서 사용이 어려워 여러 부분으로 나누어 제작하였습니다.
  - 비교기
 </br>
-<img src="/pic/비교기.png" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
+<img src="/pic/비교기.png" width="25%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
  - 전압 레귤레이터
 </br>
-<img src="/pic/전압 레귤레이터 회로.png" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
+<img src="/pic/전압 레귤레이터 회로.png" width="25%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
  - 조도 센서 회로 (R3= 조도 센서)
 </br>
-<img src="/pic/병렬과직렬/가능한영역최대.png" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
+<img src="/pic/병렬과직렬/가능한영역최대.png" width="25%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
 
 # op-amp 출력 결과
 - 1번 op-amp의 출력 결과 (On / Off)
