@@ -18,14 +18,11 @@
 
 # op-amp 출력 결과
 - 1번 op-amp의 출력 결과 (On / Off)
-</br>
-<img src="/pic/opamp_1_off.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
-<img src="/pic/opamp_1_on.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
+-  off : -0.7mV
+-  on : 6.5V
 - 2번 op-amp의 출력 결과 (On / Off)
-</br>
-<img src="/pic/opamp_2_off.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
-<img src="/pic/opamp_2_on.jpg" width="40%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
-
+-  off : -0.7mV
+-  on : 6.6V
 
 ## 사용한 부품
  - NE5532n
