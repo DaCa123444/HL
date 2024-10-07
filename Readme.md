@@ -84,7 +84,5 @@
 # 테스트 이미지
 </br>
 <img src="/pic/led_test_1.PNG" width="25%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
-</br>
 <img src="/pic/led_test_2.PNG" width="25%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
-</br>
 <img src="/pic/led_test_3.PNG" width="25%" height="30%" title="opamp_1_off" alt="opamp_1_off"></img>
